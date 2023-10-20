@@ -1,0 +1,12 @@
+{
+    "site_url": "https://www.jucesponline.sp.gov.br/",
+    "input_busca": "#ctl00_cphContent_frmBuscaSimples_txtPalavraChave",
+    "btn_busca": "#ctl00_cphContent_frmBuscaSimples_btPesquisar",
+    "img_captcha": "#formBuscaAvancada > table > tbody > tr:nth-child(1) > td > div > div:nth-child(1) > img",
+    "input_text_captcha": "#formBuscaAvancada > table > tbody > tr:nth-child(1) > td > div > div:nth-child(2) > label > input",
+    "btn_continuar_captcha": "#ctl00_cphContent_gdvResultadoBusca_btEntrar",
+    "listagem_nire": {
+        "trs": "#ctl00_cphContent_gdvResultadoBusca_gdvContent > tbody > tr",
+        "numero_nire": "td > a"
+    }
+}
